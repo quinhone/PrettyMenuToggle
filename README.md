@@ -1,4 +1,7 @@
 # MenuToggle
+
+** Menu modificado para suportar SASS e MIXIN **
+
 Simple Menu with toggle slide animation using jQuery and CSS.
 
 Uses RetinaJS for better look on retina devices.
