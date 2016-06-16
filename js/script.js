@@ -1,6 +1,6 @@
 $(document).ready( function() {
 	var $submenu = $('.submenu');
-	var $mainmenu = $('.mainmenu');
+	var $mainmenu = $('.aside-menu-toggle');
 	$submenu.hide();
 	$submenu.first().delay(400).slideDown(700);
 	$submenu.on('click','li', function() {
